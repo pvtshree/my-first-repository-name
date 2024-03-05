@@ -1,3 +1,9 @@
 1. Football
 2. Cricket
-3. Gaming
+3. Basketball
+
+With the help of feature-2 branch the lists are..
+a. Study
+b. Play
+c. sleep
+d. repeat
